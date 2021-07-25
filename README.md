@@ -3,7 +3,7 @@ By clicking on "START" button, generates random color in grid
 
 With webpage zoom set to 100% 
 
-[Website](https://arinjaysaraf.github.io/Js-ColorGenerator/)
+<a href="https://arinjaysaraf.github.io/Js-ColorGenerator/" target="_blank">https://arinjaysaraf.github.io/Js-ColorGenerator/</a>
 
 ## Demo
 ![c1](images/c1.png)
